@@ -1,0 +1,9 @@
+RecipeIntent What is the logarithm value of {Item}
+RecipeIntent What is the logarithm value for {Item}
+RecipeIntent What is the log value of {Item}
+RecipeIntent What's the log value of {Item}
+RecipeIntent logarithm value of {Item}
+RecipeIntent log value of {Item}
+
+
+
